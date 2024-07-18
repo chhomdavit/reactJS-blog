@@ -34,6 +34,11 @@ const AdminLayout = () => {
           icon: <SmileTwoTone spin />,
           label: 'Profile',
         },
+        {
+          key: '/dashboard/user',
+          icon: <SmileTwoTone spin />,
+          label: 'User',
+        },
       ],
     },
     {
